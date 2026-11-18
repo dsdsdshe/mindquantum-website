@@ -15,7 +15,7 @@ Astro + Jupyter Book monorepo for the MindQuantum website and bilingual document
 
 ## Local Development
 
-Prerequisites: Node 24 LTS (`nvm use`, pinned in `.nvmrc`) and Python 3.11.
+Prerequisites for building this site: Node 24 LTS (`nvm use`, pinned in `.nvmrc`) and Python 3.11. MindQuantum 0.12.0 supports Python 3.9–3.11.
 
 1. Install Node deps
 

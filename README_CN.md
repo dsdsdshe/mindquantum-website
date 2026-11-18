@@ -15,7 +15,7 @@ MindQuantum 网站和双语文档的 Astro + Jupyter Book 单一代码库。
 
 ## 本地开发
 
-先决条件：Node 24 LTS（通过 `.nvmrc` 固定，运行 `nvm use`）和 Python 3.11。
+本站构建的先决条件：Node 24 LTS（通过 `.nvmrc` 固定，运行 `nvm use`）和 Python 3.11。MindQuantum 0.12.0 支持 Python 3.9–3.11。
 
 1. 安装 Node 依赖
 
